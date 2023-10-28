@@ -12,3 +12,4 @@ Theme used: https://themes.gohugo.io/themes/hugo-paper/
 - Make sure the Hugo config file is called "config.toml/yaml" and not "hugo.toml/yaml"
 - Make sure the theme is added as a submodule
 - Make sure the `baseURL` in the Hugo config is set correctly otherwise for some reason the theme doesn't load.
+- Since the theme is added as submodule, when cloning run: `git clone --recursive https://github.com/RinkiyaKeDad/my-fav-quotes.git`
