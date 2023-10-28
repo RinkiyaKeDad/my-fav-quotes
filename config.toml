@@ -1,5 +1,8 @@
 baseURL = 'https://quotes.arshsharma.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Quotes'
 theme = "paper"
 contentDir = "content"
+monoDarkIcon = true
+name = 'Arsh Sharma'
+twitter = 'RinkiyaKeDad'
