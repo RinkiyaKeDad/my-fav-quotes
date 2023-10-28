@@ -5,6 +5,7 @@ A static site using Hugo deployed to Netlify with Decap CMS which I maintain to 
 ## How to
 - Deployment Guide: [Hugo + Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
 - Admin Panel Guide: [Decap CMS](https://decapcms.org/docs/add-to-your-site/)
+
 Theme used: https://themes.gohugo.io/themes/hugo-paper/
 
 ## Gotchas
