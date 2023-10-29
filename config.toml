@@ -1,6 +1,6 @@
 baseURL = 'https://quotes.arshsharma.com/'
 languageCode = 'en-us'
-title = 'Quotes'
+title = "Arsh's Fav Quotes"
 theme = "paper"
 contentDir = "content"
 monoDarkIcon = true
