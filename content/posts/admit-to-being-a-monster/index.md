@@ -1,5 +1,5 @@
 ---
-title: admit to being a monster
+title: Admit to Being a Monster
 date: 2023-10-29T13:38:54.944Z
 image: well-of-ascension.jpg
 tags:
