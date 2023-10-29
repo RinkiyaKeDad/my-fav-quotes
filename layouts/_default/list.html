@@ -61,10 +61,9 @@
             $titleCasedTag }}</a>
     </div>
     {{ end }}
-    {{ with .Resources.GetMatch "thumbnail.*" }}
+    {{ with .Params.image }}
     <a href="{{ $postPermalink }}">
-        <img src="{{ .RelPermalink }}" alt="Thumbnail" width="1920" height="1080"
-            style="border-radius: 3px; margin-top: 1em;">
+        <img src="{{ $postPermalink }}/{{ . }}" alt="Thumbnail" style="border-radius: 3px; margin-top: 1em;">
     </a>
     {{ end }}
 </section>
