@@ -6,3 +6,4 @@ contentDir = "content"
 monoDarkIcon = true
 name = 'Arsh Sharma'
 twitter = 'RinkiyaKeDad'
+paginate = 5
