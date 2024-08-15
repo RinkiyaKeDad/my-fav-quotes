@@ -1,6 +1,6 @@
 ---
 title: Try New Things
-date: 2024-08-14T23:39:00.000Z
+date: 2024-08-14T05:09:00.000Z
 image: mpv-shot0004.jpg
 tags:
   - natalie
