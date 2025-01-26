@@ -48,7 +48,9 @@
     <span
         class="mb-2 ml-px inline-block text-[0.8rem] font-medium uppercase tracking-wider text-[#ff3b2d] opacity-70">Featured</span>
     {{ end }}
-    <h2 class="!my-0 pb-1" style="font-weight: 50; line-height: 1.15;">{{ .Content | plainify | safeHTML }}</h2>
+    <a class="!my-0 pb-1" href="{{ $postPermalink }}" style="text-decoration: none; color: inherit;">
+        <div style="color: black; font-size: 1.5rem; line-height: 1.2">{{ .Content }}</div>
+    </a>
     {{ with index .Params.tags 0 }}
     <div class="text-gray-500">
         {{ $titleCasedTag := . | title }}
@@ -81,4 +83,11 @@
 </nav>
 {{ end }}<!---->
 
+<style>
+    p {
+        margin: 0!important;
+    }
+</style>
+
 {{ end }}
+
