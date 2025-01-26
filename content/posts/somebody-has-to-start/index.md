@@ -10,7 +10,7 @@ And his father's voice seemed to whisper a reply. *Somebody has to start, son. S
 
 Dalinar had come to help Kaladin's men, attacking those archers and saving Bridge Four.
 
-*The lighteyes don't care about life,* Lirin had said*. So I must. So we must.*
+*The lighteyes don't care about life,* Lirin had said. *So I must. So we must.*
 
 *So you must....*
 
