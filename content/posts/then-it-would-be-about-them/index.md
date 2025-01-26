@@ -1,6 +1,6 @@
 ---
 title: Then It Would Be About Them
-date: 2025-01-26T18:43:00.000Z
+date: 2025-01-26T05:13:00.000Z
 tags:
   - kaladin
   - the way of kings
