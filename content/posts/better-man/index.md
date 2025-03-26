@@ -1,6 +1,6 @@
 ---
 title: Better Man
-date: 2025-03-26T06:32:00.000Z
+date: 2025-03-26T06:02:00.000Z
 tags:
   - adolin
   - words of radiance
