@@ -1,5 +1,5 @@
 ---
-title: Follow the Codes
+title: We Stand Alone
 date: 2025-01-27T05:22:00.000Z
 tags:
   - dalinar
