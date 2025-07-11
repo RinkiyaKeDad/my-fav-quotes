@@ -1,9 +1,9 @@
 ---
-title: Hypocrite
-date: 2025-07-11T03:44:00.000Z
+title: Rise a Better Man
+date: 2025-07-11T02:47:00.000Z
 tags:
   - dalinar
   - oathbringer
   - books
 ---
-Sometimes a hypocrite is nothing more than a man in the process of changing.
+“I will take responsibility for what I have done," whispered Dalinar. "If I must fall, I will rise each time a better man."
