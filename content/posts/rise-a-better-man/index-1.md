@@ -1,6 +1,6 @@
 ---
 title: Rise a Better Man
-date: 2025-07-11T04:14:00.000Z
+date: 2025-07-11T02:47:00.000Z
 tags:
   - dalinar
   - oathbringer
