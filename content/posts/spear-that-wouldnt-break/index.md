@@ -6,4 +6,4 @@ tags:
   - oathbringer
   - books
 ---
-“Ten spears go to battle," he whispered, "and nine shatter. Did the war *forge* the one that remained? No, Amaran. All the war did was *identify the spear that would not break*.”
+“Ten spears go to battle," he whispered, "and nine shatter. Did the war *forge* the one that remained? No, Amaram. All the war did was *identify the spear that would not break*.”
