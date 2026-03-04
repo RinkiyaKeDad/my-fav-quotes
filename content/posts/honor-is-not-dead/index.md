@@ -1,6 +1,6 @@
 ---
 title: Honor Is Not Dead
-date: 2026-03-04T04:21:00.000Z
+date: 2026-03-03T04:21:00.000Z
 tags:
   - notum
   - rhythm of war
