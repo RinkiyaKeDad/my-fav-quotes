@@ -7,6 +7,7 @@ A static site using Hugo deployed to Netlify with Decap CMS which I maintain to 
 - Deployment Guide: [Hugo + Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
 - Admin Panel Guide: [Decap CMS](https://decapcms.org/docs/add-to-your-site/)
 - Update the theme to the latest version: [StackOverflow](https://stackoverflow.com/questions/8191299/update-a-submodule-to-the-latest-commit)
+  - `git submodule update --remote --merge`
 
 Theme used: https://themes.gohugo.io/themes/hugo-paper/
 
